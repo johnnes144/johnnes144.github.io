@@ -146,3 +146,4 @@ Customer review slider
 Mobile-first responsive design
 
 Dark luxury black-and-gold theme matching Syndicate Mirema's atmosphere.
+The Syndicate mirema
