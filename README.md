@@ -1,4 +1,6 @@
-<div class="event-card">
+<a href="https://maps.google.com" target="_blank">
+    Get Directions
+</a><div class="event-card">
   <h3>Friday DJ Night</h3>
   <p>Every Friday from 7 PM till late.</p>
 </div>@media (max-width: 768px) {
