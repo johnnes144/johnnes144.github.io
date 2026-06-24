@@ -267,3 +267,50 @@ For a complete restaurant website experience, consider adding:
         </div>
     </div>
 </section>
+.location-section {
+    background: #0f0f0f;
+    padding: 80px 20px;
+}
+
+.location-section h2 {
+    text-align: center;
+    color: #d4af37;
+    margin-bottom: 40px;
+}
+
+.location-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    gap: 30px;
+}
+
+.location-info {
+    background: #181818;
+    padding: 30px;
+    border-radius: 15px;
+    border: 1px solid rgba(212,175,55,.3);
+    color: #fff;
+}
+
+.location-info h3 {
+    color: #d4af37;
+}
+
+.location-info a {
+    color: #d4af37;
+    text-decoration: none;
+}
+
+.map-btn {
+    display: inline-block;
+    margin-top: 20px;
+    background: #d4af37;
+    color: #000;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.map-container iframe {
+    border-radius: 15px;
+}
