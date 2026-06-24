@@ -1,4 +1,4 @@
-:root{
+/images/:root{
   --gold:#d4af37;
   --black:#0f0f0f;
   --dark:#181818;
