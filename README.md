@@ -1,4 +1,18 @@
-<section id="gallery" class="gallery-section">
+@media (max-width: 768px) {
+
+    .location-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .menu-grid,
+    .gallery-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .hero h1 {
+        font-size: 2.2rem;
+    }
+}<section id="gallery" class="gallery-section">
     <div class="container">
         <h2>Photo Gallery</h2>
         <p>Experience the atmosphere, food, drinks, and events at Syndicate Mirema.</p>
