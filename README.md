@@ -220,4 +220,50 @@ For a complete restaurant website experience, consider adding:
 ---
 
 **Location:** Mirema Drive, Nairobi
-**For Reservations:** +254 794 099354
+**For Reservations:** +254 794 099354<section id="location" class="location-section">
+    <div class="container">
+        <h2>📍 Visit Syndicate Mirema</h2>
+
+        <div class="location-grid">
+
+            <div class="location-info">
+                <h3>Contact Information</h3>
+
+                <p><strong>Location:</strong> Mirema Drive, Nairobi, Kenya</p>
+
+                <p><strong>Phone:</strong>
+                    <a href="tel:+254700000000">+254 700 000 000</a>
+                </p>
+
+                <p><strong>WhatsApp Orders:</strong>
+                    <a href="https://wa.me/254700000000" target="_blank">
+                        Order on WhatsApp
+                    </a>
+                </p>
+
+                <p><strong>Opening Hours:</strong></p>
+                <ul>
+                    <li>Monday - Thursday: 8:00 AM - 11:00 PM</li>
+                    <li>Friday - Saturday: 8:00 AM - Late</li>
+                    <li>Sunday: 9:00 AM - 10:00 PM</li>
+                </ul>
+
+                <a href="https://maps.google.com" target="_blank" class="map-btn">
+                    Get Directions
+                </a>
+            </div>
+
+            <div class="map-container">
+                <iframe
+                    src="YOUR_GOOGLE_MAP_EMBED_LINK"
+                    width="100%"
+                    height="450"
+                    style="border:0;"
+                    allowfullscreen=""
+                    loading="lazy">
+                </iframe>
+            </div>
+
+        </div>
+    </div>
+</section>
