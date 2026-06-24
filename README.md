@@ -1,4 +1,7 @@
-@media (max-width: 768px) {
+<div class="event-card">
+  <h3>Friday DJ Night</h3>
+  <p>Every Friday from 7 PM till late.</p>
+</div>@media (max-width: 768px) {
 
    <input type="text" id="menuSearch" placeholder="Search food or drinks..."> .location-grid {
         grid-template-columns: 1fr;
