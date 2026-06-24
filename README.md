@@ -147,3 +147,4 @@ Mobile-first responsive design
 
 Dark luxury black-and-gold theme matching Syndicate Mirema's atmosphere.
 The Syndicate mirema
+number used for business inquiries at The Syndicate Club along Mirema Drive is +254 794 099354.Key Details for Table ReservationsLocation: Located along Mirema Drive in Nairobi, replacing the former Paris Lounge venue.Booking via Social Media: Because this is a newly launched venue, they heavily manage table reservations online via direct messaging on their official Instagram profile, @thesyndicate_ke.Operational Hours: Typically opens from afternoon/evening until late, featuring regular themed club nights and live performances.
