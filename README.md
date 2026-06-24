@@ -309,7 +309,26 @@ For a complete restaurant website experience, consider adding:
     padding: 12px 24px;
     border-radius: 8px;
     font-weight: bold;
-}
+}<section class="reviews-section">
+    <h2>⭐ What Our Customers Say</h2>
+
+    <div class="review-slider">
+        <div class="review">
+            <p>"Amazing nyama choma and great atmosphere."</p>
+            <h4>- James M.</h4>
+        </div>
+
+        <div class="review">
+            <p>"Best place to relax and enjoy sports with friends."</p>
+            <h4>- Sharon K.</h4>
+        </div>
+
+        <div class="review">
+            <p>"Excellent service and delicious food."</p>
+            <h4>- Brian O.</h4>
+        </div>
+    </div>
+</section>
 
 .map-container iframe {
     border-radius: 15px;
