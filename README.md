@@ -299,7 +299,14 @@ For a complete restaurant website experience, consider adding:
 .location-section h2 {
     text-align: center;
     color: #d4af37;
-    margin-bottom: 40px;
+    margin-bottom: 40px;choma.jpg
+cocktails.jpg
+lounge.jpg
+pizza.jpg
+live-music.jpg
+breakfast.jpg
+shawarma.jpg
+nightlife.jpg
 }
 
 .location-grid {
