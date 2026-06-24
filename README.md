@@ -4,6 +4,10 @@ Welcome to The Syndicate Mirema - Premium dining experience along Mirema Drive, 
 
 **Contact for Reservations:** +254 794 099354
 
+<a href="https://wa.me/254794099354?text=Hello%20Syndicate%20Mirema,%20I%20would%20like%20to%20place%20an%20order." target="_blank" style="display: inline-block; background-color: #25D366; color: white; padding: 12px 24px; border-radius: 5px; text-decoration: none; font-weight: bold; margin: 15px 0;">
+    📱 Order on WhatsApp
+</a>
+
 ---
 
 ## Our Menu
@@ -144,7 +148,7 @@ Welcome to The Syndicate Mirema - Premium dining experience along Mirema Drive, 
 For a complete restaurant website experience, consider adding:
 
 - **Online Table Reservations** - Allow customers to book tables
-- **WhatsApp Ordering Button** - Direct ordering via WhatsApp
+- **WhatsApp Ordering Button** - Direct ordering via WhatsApp ✅ (Added)
 - **Menu Search/Filter** - Help customers find items easily
 - **Photo Gallery** - Showcase dishes and ambiance
 - **Events/Nightlife Section** - Promote special events
