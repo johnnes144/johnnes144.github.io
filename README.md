@@ -1,4 +1,9 @@
-<a href="https://maps.google.com" target="_blank">
+:root{
+  --gold:#d4af37;
+  --black:#0f0f0f;
+  --dark:#181818;
+  --white:#ffffff;
+}<a href="https://maps.google.com" target="_blank">
     Get Directions
 </a><div class="event-card">
   <h3>Friday DJ Night</h3>
