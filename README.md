@@ -1,4 +1,20 @@
-# The Syndicate Mirema
+<section id="gallery" class="gallery-section">
+    <div class="container">
+        <h2>Photo Gallery</h2>
+        <p>Experience the atmosphere, food, drinks, and events at Syndicate Mirema.</p>
+
+        <div class="gallery-grid">
+            <img src="images/choma.jpg" alt="Choma Platter">
+            <img src="images/cocktails.jpg" alt="Cocktails & Drinks">
+            <img src="images/lounge.jpg" alt="Syndicate Lounge">
+            <img src="images/pizza.jpg" alt="Paris Pizza">
+            <img src="images/live-music.jpg" alt="Live Entertainment">
+            <img src="images/breakfast.jpg" alt="Breakfast Specials">
+            <img src="images/shawarma.jpg" alt="Shawarma">
+            <img src="images/nightlife.jpg" alt="Nightlife Experience">
+        </div>
+    </div>
+</section># The Syndicate Mirema
 
 Welcome to The Syndicate Mirema - Premium dining experience along Mirema Drive, Nairobi.
 
