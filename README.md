@@ -4,7 +4,7 @@ Welcome to The Syndicate Mirema - Premium dining experience along Mirema Drive, 
 
 **Contact for Reservations:** +254 794 099354
 
-<a href="https://wa.me/254794099354?text=Hello%20Syndicate%20Mirema,%20I%20would%20like%20to%20place%20an%20order." target="_blank" style="display: inline-block; background-color: #25D366; color: white; padding: 12px 24px; border-radius: 5px; text-decoration: none; font-weight: bold; margin: 15px 0;">
+<a href="https://wa.me/254794099354?text=Hello%20Syndicate%20Mirema,%20I%20would%20like%20to%20place%20an%20order." target="_blank" style="display: inline-block; background-color: #25D366; color: whit[...]"
     📱 Order on WhatsApp
 </a>
 
@@ -143,6 +143,50 @@ Welcome to The Syndicate Mirema - Premium dining experience along Mirema Drive, 
 
 ---
 
+## Events & Nightlife
+
+🎉 Events & Nightlife at Syndicate Mirema
+
+Experience the energy of Nairobi's nightlife at The Syndicate Mirema. Located on Mirema Drive, the venue has quickly become one of the area's most talked-about entertainment spots, featuring live DJs, themed nights, sports screenings, and weekend parties.
+
+### Weekly Highlights
+
+- Monday: Chill Vibes & Cocktails
+- Wednesday: Ladies' Night
+- Thursday: Throwback Thursdays
+- Friday: DJ Takeover & Party Night
+- Saturday: Amapiano & Afrobeat Experience
+- Sunday: Live Sports & Sundowner Sessions
+
+### What to Expect
+
+- Live DJ performances
+- Premium cocktails & bottle service
+- VIP lounge experience
+- Large screens for major sports events
+- Birthday and private party packages
+- Modern lighting and sound systems
+
+### Upcoming Events
+
+**Friday Night Fever**
+
+- Resident DJs
+- Afrobeat • Amapiano • Dancehall
+- Doors Open: 6 PM
+
+**Saturday Syndicate Experience**
+
+- Special Guest DJs
+- VIP Tables Available
+- Open Until Late
+
+### Reserve Your Spot
+
+Book a table or inquire about private events via WhatsApp or call the venue directly: +254 794 099354.
+
+---
+
 ## Recommended Enhancements
 
 For a complete restaurant website experience, consider adding:
@@ -151,7 +195,7 @@ For a complete restaurant website experience, consider adding:
 - **WhatsApp Ordering Button** - Direct ordering via WhatsApp ✅ (Added)
 - **Menu Search/Filter** - Help customers find items easily
 - **Photo Gallery** - Showcase dishes and ambiance
-- **Events/Nightlife Section** - Promote special events
+- **Events/Nightlife Section** - Promote special events ✅ (Added)
 - **Google Maps Directions** - Easy navigation
 - **Customer Reviews Slider** - Build trust with testimonials
 - **Mobile-first Responsive Design** - Optimize for all devices
