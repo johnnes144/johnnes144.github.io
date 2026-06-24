@@ -1,6 +1,6 @@
 @media (max-width: 768px) {
 
-    .location-grid {
+   <input type="text" id="menuSearch" placeholder="Search food or drinks..."> .location-grid {
         grid-template-columns: 1fr;
     }
 
